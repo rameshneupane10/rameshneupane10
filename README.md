@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rameshneupane10" alt="rameshneupane10" /></a> </p>
 
 - 🌱 I’m currently learning **c#**
-
+https://www.youtube.com/watch?v=0kunLNGjApk
 - 📫 How to reach me **rameshnjr10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
