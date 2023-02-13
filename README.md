@@ -7,26 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rameshneupane10" alt="rameshneupane10" /></a> </p>
 
-- 🌱 I’m currently learning **c#**
-/*using unityEngine;
+- 🌱 I’m currently learning **c#,java**
 
-public class Cameracontroller : MonoBehavioour
-{
-	[serialized] private float speed;
-	private float currentPosX;
-	private vector3 velocity = vector3.zero;
 
-	private void update { }
-	{
-	transform.position = vector3.SmoothDamp(transform.position, new vector3(currentPosx , transform.position.y , transform.position.z),
-	ref velocity , speed = Time.deltatime);
-	}
-
-public void MoveToNewRoom(Transform _newRoom)
-{
-	currentPosX = _newRoom.position.x;
-}
-}*/
 - 📫 How to reach me **rameshnjr10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
