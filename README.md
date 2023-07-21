@@ -1,7 +1,7 @@
-<img src ="https://imgs.search.brave.com/gm82o5QVRwdt-SPLGGVWUQIil5G7OpjmQqJFnd1KXQU/rs:fit:1200:900:1/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDYyNzE2/NzUucG5n" height="500" width="1600" alt="coding mode">
+
 <h1 align="center">Hi 👋, I'm Ramesh Neupane</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
-<img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/Jxkr0lAI7FP8Wy912aeFqpoBuvF1z_HfrcJOdpjMR6k/rs:fit:480:320:1/g:ce/aHR0cHM6Ly9pLmdp/ZmVyLmNvbS9CbTdD/LmdpZg.gif"
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rameshneupane10&label=Profile%20views&color=0e75b6&style=flat" alt="rameshneupane10" /> </p>
 
